@@ -1,0 +1,68 @@
+{
+  "navSub": "CUSTOMS BROKER",
+  "navSvc": "Services",
+  "navWhy": "About Us",
+  "navHow": "How We Work",
+  "navCt": "Contact",
+  "navBtn": "Get Consultation",
+  "badge": "LICENSED CUSTOMS BROKER",
+  "heroT1": "Your cargo —",
+  "heroT2": "our responsibility",
+  "heroSub": "Professional customs clearance services in Uzbekistan. Import and export of any complexity — fast, legal, and transparent.",
+  "heroBtn1": "Get Consultation",
+  "heroBtn2": "Our Services",
+  "stat1": "CLIENTS",
+  "stat2": "YEARS OF EXPERIENCE",
+  "stat3": "ZERO PENALTIES",
+  "stat4": "SUPPORT",
+  "svcLabel": "OUR SERVICES",
+  "svcTitle": "Full range of customs services",
+  "svcDesc": "From consultation to cargo delivery — we accompany you at every stage of customs clearance.",
+  "services": [
+    { "icon": "📦", "title": "Import Clearance", "desc": "Professional customs clearance for imported goods, ensuring full compliance with regulations and minimizing duties." },
+    { "icon": "🚢", "title": "Export Clearance", "desc": "Complete support for export operations — from document preparation to releasing goods into international circulation." },
+    { "icon": "📋", "title": "Customs Consulting", "desc": "Expert advice on customs legislation, tariffs, and optimal import/export schemes for your business." },
+    { "icon": "🏭", "title": "Bonded Warehouse", "desc": "Temporary storage of goods under customs control while awaiting clearance or transshipment." },
+    { "icon": "📑", "title": "Goods Certification", "desc": "Obtaining necessary certificates and permits for importing specific categories of goods into Uzbekistan." },
+    { "icon": "🔍", "title": "Customs Audit", "desc": "Analysis and optimization of your customs operations to reduce risks and costs." }
+  ],
+  "whyLabel": "WHY US",
+  "whyTitle": "Your reliable customs partner",
+  "features": [
+    "Licensed customs declarants with 10+ years of experience",
+    "Personal manager assigned to every client",
+    "Transparent pricing with no hidden fees",
+    "Full legal liability for every customs declaration",
+    "We work with all cargo types and customs posts in Uzbekistan"
+  ],
+  "whyItems": [
+    { "num": "500+", "title": "Successful clearances", "sub": "in the last year" },
+    { "num": "48h", "title": "Average clearance time", "sub": "for standard cargo" },
+    { "num": "0", "title": "Customs penalties", "sub": "for our clients in 2024" }
+  ],
+  "howLabel": "HOW WE WORK",
+  "howTitle": "Simple process — reliable result",
+  "howDesc": "We handle all the paperwork so you can focus on your business.",
+  "steps": [
+    { "n": "01", "t": "Inquiry & Consultation", "d": "You submit a request, we reach out and analyze your cargo." },
+    { "n": "02", "t": "Document Preparation", "d": "Our specialists prepare a complete customs documentation package." },
+    { "n": "03", "t": "Declaration Filing", "d": "We file the declaration with the customs authority and monitor the process." },
+    { "n": "04", "t": "Cargo Release", "d": "Cargo is released — you receive notification and all documents." }
+  ],
+  "ctLabel": "CONTACT",
+  "ctTitle": "Get in Touch",
+  "ctDesc": "Our specialists are ready to answer your questions and calculate the cost of services.",
+  "ctHours": "Mon–Sun: 9:00 AM – 6:00 PM",
+  "flName": "NAME",
+  "flPhone": "PHONE",
+  "flSvc": "SERVICE",
+  "flMsg": "MESSAGE",
+  "fso": ["Import Clearance", "Export Clearance", "Customs Consultation", "Certification", "Other"],
+  "formBtn": "Send Request →",
+  "footer": "© 2024 LLC \"INTERBROKSERVIS\". All rights reserved. | Licensed customs broker of the Republic of Uzbekistan",
+  "placeholders": {
+    "name": "Your name",
+    "phone": "+998 ...",
+    "msg": "Describe your cargo..."
+  }
+}

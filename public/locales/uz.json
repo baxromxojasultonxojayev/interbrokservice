@@ -1,0 +1,68 @@
+{
+  "navSub": "BOJXONA BROKERI",
+  "navSvc": "Xizmatlar",
+  "navWhy": "Biz haqimizda",
+  "navHow": "Ish tartibi",
+  "navCt": "Aloqa",
+  "navBtn": "Konsultatsiya",
+  "badge": "LITSENZIYALANGAN BOJXONA BROKERI",
+  "heroT1": "Sizning yukingiz —",
+  "heroT2": "bizning mas'uliyatimiz",
+  "heroSub": "O'zbekistonda yuklarni professional bojxona rasmiylashtiruvi. Har qanday murakkablikdagi import va eksport — tez, qonuniy va shaffof.",
+  "heroBtn1": "Konsultatsiya olish",
+  "heroBtn2": "Xizmatlarimiz",
+  "stat1": "MIJOZLAR",
+  "stat2": "YILLIK TAJRIBA",
+  "stat3": "JARIMA YO'Q",
+  "stat4": "QO'LLAB-QUVVATLASH",
+  "svcLabel": "XIZMATLARIMIZ",
+  "svcTitle": "To'liq bojxona xizmatlari",
+  "svcDesc": "Konsultatsiyadan yukni olishgacha — bojxona rasmiylashtiruvi bosqichlarida sizni kuzatamiz.",
+  "services": [
+    { "icon": "📦", "title": "Import rasmiylashtiruvi", "desc": "Import qilinadigan tovarlarni professional rasmiylashtirish, bojxona me'yorlariga rioya qilgan holda." },
+    { "icon": "🚢", "title": "Eksport rasmiylashtiruvi", "desc": "Eksport operatsiyalarini to'liq qo'llab-quvvatlash — hujjatlardan xalqaro aylanmaga chiqarishgacha." },
+    { "icon": "📋", "title": "Bojxona maslahatlari", "desc": "Bojxona qonunchiligi, tariflar va optimal import/eksport sxemalari bo'yicha ekspert maslahatlari." },
+    { "icon": "🏭", "title": "Bojxona ombori", "desc": "Rasmiylashtirish yoki qayta yuklashni kutish vaqtida yuklarni bojxona nazorati ostida saqlash." },
+    { "icon": "📑", "title": "Tovarlar sertifikatsiyasi", "desc": "Maxsus tovar kategoriyalarini import qilish uchun zarur sertifikatlar va ruxsatnomalar olish." },
+    { "icon": "🔍", "title": "Bojxona auditi", "desc": "Xavf va xarajatlarni kamaytirish uchun bojxona operatsiyalaringizni tahlil qilish va optimallashtirish." }
+  ],
+  "whyLabel": "NIMA UCHUN BIZ",
+  "whyTitle": "Bojxonada ishonchli hamkor",
+  "features": [
+    "10+ yil tajribaga ega litsenziyalangan bojxona deklarantlari",
+    "Har bir mijoz uchun shaxsiy menejer",
+    "Yashirin to'lovsiz shaffof narxlash",
+    "Har bir rasmiylashtirish uchun yuridik mas'uliyat",
+    "Barcha turdagi yuklar va O'zbekiston bojxonalari bilan ishlaymiz"
+  ],
+  "whyItems": [
+    { "num": "500+", "title": "Muvaffaqiyatli rasmiylashtirishlar", "sub": "o'tgan yil uchun" },
+    { "num": "48s", "title": "O'rtacha rasmiylashtirish vaqti", "sub": "standart yuklar" },
+    { "num": "0", "title": "Bojxona jarimasi", "sub": "2024 yilda mijozlarimizda" }
+  ],
+  "howLabel": "QANDAY ISHLAYMIZ",
+  "howTitle": "Oddiy jarayon — ishonchli natija",
+  "howDesc": "Siz biznesga e'tibor qaratishingiz uchun barcha byurokratiyani o'z zimmamizga olamiz.",
+  "steps": [
+    { "n": "01", "t": "Ariza va maslahat", "d": "Siz ariza topshirasiz, biz murojaat qilamiz va yukingizni tahlil qilamiz." },
+    { "n": "02", "t": "Hujjatlarni tayyorlash", "d": "Mutaxassislarimiz to'liq bojxona hujjatlar to'plamini shakllantiradi." },
+    { "n": "03", "t": "Deklaratsiya topshirish", "d": "Deklaratsiyani bojxona organiga topshiramiz va jarayonni nazorat qilamiz." },
+    { "n": "04", "t": "Yukni chiqarish", "d": "Yuk chiqarildi — siz bildirishnoma va barcha hujjatlarni olasiz." }
+  ],
+  "ctLabel": "ALOQA",
+  "ctTitle": "Biz bilan bog'laning",
+  "ctDesc": "Mutaxassislarimiz savollaringizga javob berishga va xizmat narxini hisoblashga tayyor.",
+  "ctHours": "Du–Ya: 9:00 – 18:00",
+  "flName": "ISM",
+  "flPhone": "TELEFON",
+  "flSvc": "XIZMAT",
+  "flMsg": "XABAR",
+  "fso": ["Import rasmiylashtiruvi", "Eksport rasmiylashtiruvi", "Bojxona maslahati", "Sertifikatsiya", "Boshqa"],
+  "formBtn": "Ariza yuborish →",
+  "footer": "© 2024 MChJ \"INTERBROKSERVIS\". Barcha huquqlar himoyalangan. | O'zbekiston Respublikasining litsenziyalangan bojxona brokeri",
+  "placeholders": {
+    "name": "Ismingiz",
+    "phone": "+998 ...",
+    "msg": "Yukingizni tasvirlab bering..."
+  }
+}
